@@ -1,0 +1,2 @@
+# Chinese-Traffic-Sign-Detection-and-Recogniton-using-CNN
+Abstract : Traffic sign recognition system plays a crucial role in the automatic driving systems for traffic assistance. It helps to identify traffic signs more effectively. Many initiatives were conducted to upgrade the models to meet the requirements of real-time road problems. A convolutional neural net approach has been used in this project to detect and recognize the image of traffic signs.
